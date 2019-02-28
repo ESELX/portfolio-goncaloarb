@@ -1,1 +1,0 @@
-As aulas são muito bonitas e não gosto do pai natal
