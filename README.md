@@ -14,7 +14,7 @@ Este template permite-me organizar as varias áreas que eu tenho vindo a explora
 
 
 <li>Que areas o meu portefólio vai abranger?
-</ol>
+<ul>
 <li>Design Gráfico<li>
 <li>Design Interiores<li>
 <li>Design produto<li>
@@ -22,4 +22,4 @@ Este template permite-me organizar as varias áreas que eu tenho vindo a explora
 <li>Pintura<li>
 <li>Escultura<li>
 <li>Multimédia<li>
-</ol>
+<ul>
