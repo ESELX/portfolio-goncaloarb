@@ -23,3 +23,10 @@ Este template permite-me organizar as varias áreas que eu tenho vindo a explora
 <li>Escultura</li>
 <li>Multimédia</li>
 <ul>
+
+<li>Plano de trabalho
+
+<h2>3 de abril</h2>
+
+- [ ] Organização de todos os trabalhos realizados
+- [ ] Alteração das cores do template
