@@ -13,13 +13,13 @@ Este template permite-me organizar as varias áreas que eu tenho vindo a explora
 </ul>
 
 
-<li>Que areas o meu portefólio vai abranger?
+<li>Que áreas o meu portefólio vai abranger?
 <ul>
-<li>Design Gráfico<li>
-<li>Design Interiores<li>
-<li>Design produto<li>
-<li>Desenho<li>
-<li>Pintura<li>
-<li>Escultura<li>
-<li>Multimédia<li>
+<li>Design Gráfico</li>
+<li>Design Interiores</li>
+<li>Design produto</li>
+<li>Desenho</li>
+<li>Pintura</li>
+<li>Escultura</li>
+<li>Multimédia</li>
 <ul>
