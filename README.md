@@ -25,6 +25,7 @@ Este template permite-me organizar as varias áreas que eu tenho vindo a explora
 <ul>
 
 <li>Plano de trabalho</li>
+<ol>
 
 <h2>3 de abril</h2>
 
