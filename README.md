@@ -2,7 +2,7 @@
 <h2>Conteúdos Portefólio Gonçalo Brás turma J</h2>
 
 <ol>
-<li>Template</li>
+<li><a href="https://html5up.net/parallelism">Template</a></li>
 <li>Que informações o meu portefólio vai conter?
 <ol>
 <li>Trabalhos académicos<li>
