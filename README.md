@@ -3,8 +3,13 @@
 
 <ol>
 <li>Template</li>
-<li>Que informações o meu portefólio vai conter?</li>
-<li>Que areas o meu portefólio vai abranger? 
+<li>Que informações o meu portefólio vai conter?
+<ol>
+<li>Trabalhos académicos<li>
+<li>Trabalhos pessoais<li>
+<li>Trabalhos profissionais<li>
+<ol>
+<li>Que areas o meu portefólio vai abranger?
 </ol>
 <li>Design Gráfico<li>
 <li>Design Interiores<li>
