@@ -3,6 +3,7 @@
 
 <ol>
 <li><a href="https://html5up.net/parallelism">Template</a></li>
+Este template
 <li>Que informações o meu portefólio vai conter?
 <ol>
 <li>Trabalhos académicos<li>
