@@ -31,3 +31,8 @@ Este template permite-me organizar as varias áreas que eu tenho vindo a explora
 
 - [ ] Organização de todos os trabalhos realizados
 - [ ] Alteração das cores do template
+
+<h2>8 de abril</h2>
+- [ ] Pesquisar fontes
+- [ ] Página biográfica
+- [ ] Criar uma zona para contacto por mensagem
